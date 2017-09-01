@@ -1,0 +1,26 @@
+{
+  "name": "node_api_example",
+  "version": "1.0.0",
+  "description": "An REST API using NodeJS",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrof/node_api_example.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "example",
+    "tutorial",
+    "learning"
+  ],
+  "author": "Pedro L. Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrof/node_api_example/issues"
+  },
+  "homepage": "https://github.com/pedrof/node_api_example#readme"
+}
